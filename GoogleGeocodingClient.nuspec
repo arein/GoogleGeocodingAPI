@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CeserosGoogleGeocodingClient</id>
+    <version>1.0</version>
+    <title>GoogleGeocodingClient</title>
+    <authors>Alexander-Derek Rein</authors>
+    <owners>Alexander-Derek Rein</owners>
+    <projectUrl>https://github.com/arein/GoogleGeocodingAPI</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A wrapper for Google's Geocoding API</description>
+    <releaseNotes>Initial Version.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Geocoding Google</tags>
+  </metadata>
+</package>

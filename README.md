@@ -3,11 +3,15 @@ Google Geocoding Client for Windows Store Apps
 
 The code is an approved port of https://code.google.com/p/geocodingapi/. Thanks to Jon Sagara for coding the initial version which targets .NET 3.5 and version 2 of Google's Geocoding API.
 
+About
+===============
+This is a wrapper for Google's Geocoding API V3.
+
 Installation
 ===============
 
-### Nuget
-TODO: Add Nuget Link
+### [Nuget](https://www.nuget.org/packages/CeserosGoogleGeocodingClient/1.0.0)
+Install-Package CeserosGoogleGeocodingClient
 
 ### From Source
 Just clone the repo and add the project to your solution.
