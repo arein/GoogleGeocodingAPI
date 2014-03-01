@@ -11,7 +11,7 @@ namespace GoogleGeocodingClient
 	/// <summary>
 	/// Wrapper for returning results from Google's Geocoding API.
 	/// </summary>
-	public static class Geocoding
+	public static class GoogleGeocodingClient
 	{
 		/// <summary>
 		/// Obtain the geographic coordinates of the specified address.  May return multiple sets
