@@ -29,3 +29,7 @@ Contributing
 You're invited to contribute to the repo. There are a few tasks that could be done:
 * Add support for Windows Phone
 * Add support for Reverse Geocoding
+
+Apps Using this Library
+===============
+* [Mils] (https://milsapp.com): A client to [send PDFs as real letters](https://milsapp.com)
