@@ -20,7 +20,7 @@ namespace GoogleGeocodingClient
 		/// <param name="address"></param>
 		/// <returns></returns>
 		public async static Task<List<GeographicCoordinate>> Geocode(string address)
-		{
+        {
 			return await Geocode(address, false);
 		}
 
